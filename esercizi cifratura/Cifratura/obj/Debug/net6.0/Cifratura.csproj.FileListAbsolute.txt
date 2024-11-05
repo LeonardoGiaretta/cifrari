@@ -1,0 +1,30 @@
+C:\Users\9698186\Desktop\Cifratura\bin\Debug\net6.0\Cifratura.exe
+C:\Users\9698186\Desktop\Cifratura\bin\Debug\net6.0\Cifratura.deps.json
+C:\Users\9698186\Desktop\Cifratura\bin\Debug\net6.0\Cifratura.runtimeconfig.json
+C:\Users\9698186\Desktop\Cifratura\bin\Debug\net6.0\Cifratura.dll
+C:\Users\9698186\Desktop\Cifratura\bin\Debug\net6.0\Cifratura.pdb
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.csproj.AssemblyReference.cache
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.AssemblyInfoInputs.cache
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.AssemblyInfo.cs
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.csproj.CoreCompileInputs.cache
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.dll
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\refint\Cifratura.dll
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.pdb
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\Cifratura.genruntimeconfig.cache
+C:\Users\9698186\Desktop\Cifratura\obj\Debug\net6.0\ref\Cifratura.dll
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.csproj.AssemblyReference.cache
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.AssemblyInfoInputs.cache
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.AssemblyInfo.cs
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.csproj.CoreCompileInputs.cache
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.dll
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\refint\Cifratura.dll
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.pdb
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\bin\Debug\net6.0\Cifratura.exe
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\bin\Debug\net6.0\Cifratura.deps.json
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\bin\Debug\net6.0\Cifratura.runtimeconfig.json
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\bin\Debug\net6.0\Cifratura.dll
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\bin\Debug\net6.0\Cifratura.pdb
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\Cifratura.genruntimeconfig.cache
+C:\Users\9698186\Desktop\esercizi cifratura\Cifratura\obj\Debug\net6.0\ref\Cifratura.dll

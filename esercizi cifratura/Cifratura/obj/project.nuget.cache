@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3x55hB2YUTIc8ZbobPg4MlkLqk3UOwnzqBe+1eEzcemIIV39rqldUYWna+LaJCuUGN9UxZypilxM3xu+3Yo7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\9698186\\Desktop\\esercizi cifratura\\Cifratura\\Cifratura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9698186\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698186\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698186\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698186\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
